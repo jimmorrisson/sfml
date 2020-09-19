@@ -1,3 +1,4 @@
-[submodule "libfoo"]
+[submodule "sfml"]
 	path = libs/sfml
 	url = git@github.com:SFML/SFML.git
+	branch = master
